@@ -1,0 +1,12 @@
+# Pliki środowiskowe (zmienne)
+.env
+
+# Foldery środowiska wirtualnego (dodaj nazwę swojego folderu, zazwyczaj venv lub .venv)
+venv/
+.venv/
+env/
+
+# Pliki kompilacji Pythona
+__pycache__/
+*.pyc
+.pytest_cache
